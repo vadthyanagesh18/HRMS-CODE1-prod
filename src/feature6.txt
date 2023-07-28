@@ -1,1 +1,2 @@
 f6
+single sign on feature
